@@ -30,7 +30,7 @@
   
  ## Support 
   
- For support <a href="https://t.me/CyberExpertMamun">Telegram</a> Devloper. 
+ For support <a href="https://t.me/CyberExpertMamun">(Telegram)</a>
   
   
  ## Download  
